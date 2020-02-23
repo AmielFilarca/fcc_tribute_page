@@ -1,0 +1,51 @@
+html {
+    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    font-size: 10px;
+}
+
+main {
+    font-size: 2em;
+    text-align: center;
+    color: #333333;
+    font-family: Georgia, serif;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 100px;
+}
+
+figcaption {
+    font-size: 14px;
+}
+
+h1 {
+    padding-top: 100px;
+    color: #333333;
+    font-family: 'Bitter', serif;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+a {
+    color: #c73036;
+    font-family: Georgia, serif;
+    text-decoration: underline;
+}
+
+ul {
+    max-width: 350px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: 313px;
+    display: block;
+    margin: 0 auto;
+}
+
+#about {
+    width: 50%;
+    padding-left: 25%;
+}
